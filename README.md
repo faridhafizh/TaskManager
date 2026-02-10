@@ -28,16 +28,4 @@ A high-performance, visually appealing Windows Task Manager built with Rust and 
 - `/src-tauri`: Backend Rust application.
 - `/src-tauri/src/lib.rs`: Core Rust logic for system data retrieval and process management.
 
-## 🛠️ Development & Build
-
-### Prerequisites
-- Node.js & npm
-- Rust & Cargo
-- Tauri CLI (`npm install -g @tauri-apps/cli`)
-
-### Commands
-- **Run in Development**: `npm run tauri dev`
-- **Build Production App**: `npm run tauri build`
-- **Frontend Only Dev**: `npm run dev`
-
 ---
