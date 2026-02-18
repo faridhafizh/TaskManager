@@ -22,10 +22,4 @@ A high-performance, visually appealing Windows Task Manager built with Rust and 
 - **Framework**: Tauri 2
 - **System Info**: `sysinfo` crate for fetching hardware and process data
 
-## 📂 Project Structure
-- `/src`: Frontend React application source code.
-- `/src/components`: UI components (Dashboard, ProcessTable, Sidebar, etc.).
-- `/src-tauri`: Backend Rust application.
-- `/src-tauri/src/lib.rs`: Core Rust logic for system data retrieval and process management.
-
 ---
